@@ -1,9 +1,0 @@
-{
-    "$schema": "https://ui.shadcn.com/schema/registry.json",
-    "name": "OpsKit Shadcn Registry",
-    "description": "A registry for OpsKit components and templates.",
-    "homepage": "http://localhost:3000",
-    "items": [
-
-    ]
-}
